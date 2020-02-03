@@ -25,7 +25,7 @@ Set up ngrok from it official website:
 > ./ngrok tcp localhost:8888
 
 ## step: 3
-Shair this link
+Shair this link to victims
 
 ![ngrok link](1.png)
 
